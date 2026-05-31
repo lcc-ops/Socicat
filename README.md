@@ -2,8 +2,7 @@
 
 > 一键发布到微博、抖音、快手、视频号...让内容创作更简单
 
-[![Stars](https://img.shields.io/github/stars/lcc-ops/multi_publisher?style=flat-square)](https://github.com/lcc-ops/multi_publisher/stargazers)
-[![License](https://img.shields.io/github/license/lcc-ops/multi_publisher?style=flat-square)](https://github.com/lcc-ops/multi_publisher/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/lcc-ops/Multi-publisher)](https://github.com/lcc-ops/Multi-publisher/stargazers)
 
 多平台内容一键发布工具，支持微博、抖音、快手、视频号、哔哩哔哩、YouTube、TikTok 等多个主流平台。
 
@@ -29,7 +28,9 @@ Multi-Publisher 让你**一次编辑，一键发布到所有平台**。
 - **可视化操作**：直观的图形界面，三步完成发布
 - **账号隔离**：独立浏览器环境，数据完全隔离
 - **批量发布**：一次编辑，同时发布到多个平台
-- **账号矩阵**：支持多个账号，对于海外平台我还单独提供了设置代理的功能
+- **账号矩阵**：支持多个账号管理
+- **多主题支持**：支持浅色、深色、高对比度、护眼浅色四种主题
+- **代理配置**：支持为海外平台配置代理
 
 ---
 
@@ -47,24 +48,33 @@ Multi-Publisher 让你**一次编辑，一键发布到所有平台**。
 
 ---
 
+## 界面预览
+
+### 主题切换
+
+支持四种主题风格，可根据喜好自由切换：
+
+- **浅色**：默认蓝白主题
+- **深色**：暗色背景，夜间使用
+- **高对比度**：无障碍设计，黄黑高对比
+- **护眼浅色**：暖色调，适合长时间阅读
+
+![image-20260531230607542](assets/image-20260531230607542.png)
+
+---
+
 ## 快速开始
 
 在与我取得联系并获得完整的程序后即可开始使用
-
-![image-20260519201947725](assets/image-20260519201947725.png)
-
-![image-20260519202000349](assets/image-20260519202000349.png)
-
-![image-20260519202016891](assets/image-20260519202016891.png)
-
-![局部截取_20260525_205951](assets/局部截取_20260525_205951.png)
 
 ---
 
 ## Roadmap
 
+- [x] 视频发布功能
+- [ ] 素材管理
 - [ ] 图文发布功能
-- [ ] 定时发布
+- [ ] 定时发布（需先完成素材管理）
 - [ ] 发布记录管理
 - [ ] 更多平台支持
 
@@ -79,7 +89,7 @@ Multi-Publisher 让你**一次编辑，一键发布到所有平台**。
 
 > ⭐ **加我微信**：对项目感兴趣或有定制需求，可以加我微信私聊，备注「Multi-Publisher」。
 >
-> 关于此项目，我会以买断制的形式出售，并且在我这里购买的项目我将提供后续的项目支持包括优先参考他们提供的项目需求建议，尽量别砍价，赚点生活费，太穷快搞不起技术了呜呜呜
+> 
 >
 > ![image-20260519202658045](assets/image-20260519202658045.png)
 
@@ -93,14 +103,8 @@ Multi-Publisher 让你**一次编辑，一键发布到所有平台**。
 
 这是我的微信公众号：AIGC&Security
 
-没人关注都快没发文章的动力了
-
 最后，给个star让我🛫吧
-
-## 许可证
-
-本项目采用 [MIT License](LICENSE) 开源。
 
 ---
 
-[![Star History](https://api.star-history.com/svg?repos=lcc-ops/multi_publisher&type=Timeline)](https://star-history.com/#lcc-ops/multi_publisher&Timeline)
+[![Star History](https://api.star-history.com/svg?repos=lcc-ops/Multi-publisher&type=Timeline)](https://star-history.com/#lcc-ops/Multi-publisher&Timeline)
