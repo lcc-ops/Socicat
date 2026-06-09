@@ -83,6 +83,29 @@ Multi-Publisher 让你**一次编辑，一键发布到所有平台**，并提供
 - [ ] 定时发布（需先完成素材管理）
 - [ ] 发布记录管理
 
+
+
+
+
+### 使用
+
+新的用户三天试用期，以下是免费的30天激活码，先到先得：
+
+```
+ 957K-CFWJ-6KAF-XTY8-Q
+ 7MM9-CX4F-MHCQ-C6NA-7
+ S8AN-SDJA-PE8A-UF3Z-H
+ 4DST-2R6Y-6QQS-BMFD-V
+ AT4A-ZAAS-348J-QJNH-C
+ 7NAT-B2EH-7BHQ-47TJ-Z
+ X45K-Z4PT-U6KP-HU4U-V
+ MMZB-68PX-AD7D-NFY4-7
+ 9V2N-JFQR-F4QZ-2DR2-F
+ JY9U-JCZN-ZYF6-TFQ8-N
+```
+
+
+
 ---
 
 ## 交流与联系
